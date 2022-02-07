@@ -11,7 +11,7 @@ Projeto realizado com intuito de analisar outliers nos dados brutos disponibiliz
 [Link para o projeto completo](https://github.com/Henrique-Peter/airbnb_dublin/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
 
 **Links relacionados:**
-* [Artigo sobre esse projeto no Medium]()
+* [Artigo sobre esse projeto no Medium](https://bit.ly/3gwLTQl)
 * [LinkedIn](https://www.linkedin.com/in/henriquepeter/)
 * [Portfólio Completo](https://github.com/Henrique-Peter/portfolio/blob/main/README.md)
 
