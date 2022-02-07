@@ -1,8 +1,7 @@
-[![author](https://img.shields.io/badge/author-henriquepeter-red.svg)](https://www.linkedin.com/in/henriquepeter/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)]
-(https://www.python.org/downloads/release/python-365/)
+[![author](https://img.shields.io/badge/author-henriquepeter-red.svg)](https://www.linkedin.com/in/henriquepeter/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
 
 <p align="center">
-  <img src="https://image.freepik.com/fotos-gratis/sino-do-hotel_1203-2898.jpg?w=1380" alt="sino_hotel">
+  <img src="sino_hotel.webp" alt="sino_hotel">height=300
 </p>
 
 ## Análise dos Dados do Airbnb - Dublin
